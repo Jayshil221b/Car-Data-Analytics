@@ -1,0 +1,8 @@
+car_acceptability: unacc, acc, good, vgood  
+
+buying: low, med, high, vhigh 
+maint: low, med, high, vhigh
+doors: 2, 3, 4, 5more
+persons: 2, 4, more
+lug_boot: small, med, big
+safety: low, med, high
